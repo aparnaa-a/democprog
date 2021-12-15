@@ -1,0 +1,2 @@
+# democprog
+simple c program
